@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Blockchain, Web3, Ethereum & SAP**
 
-- 📫 How to reach me **devraj.singh.rawat83@gmail.com**
+- 📫 How to reach me **devraj.singh.rawat83@gmail.com** Telegram Me **@devrajsinghrawat**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/devrajsinghrawat/](https://www.linkedin.com/in/devrajsinghrawat/)
 
