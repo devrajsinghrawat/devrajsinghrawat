@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/devrajsinghrawat](github.com/devrajsinghrawat)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/devrajsinghrawat/](https://www.linkedin.com/in/devrajsinghrawat/)
+- 📝 I regularly write articles or Posts on [https://www.linkedin.com/in/devrajsinghrawat/](https://www.linkedin.com/in/devrajsinghrawat/)
 
 - 💬 Ask me about **Blockchain, Web3, Ethereum & SAP**
 
