@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently managing Products on **Enterprise Asset Management & SAP Public Cloud**
 
-- 🌱 I’m currently learning **Building Smart contracts with Foundry, SAP Public Cloud, Business Technology Platform, RAP etc**
+- 🌱 I’m currently learning **Smart contracts auditing, SAP Public Cloud, Business Technology Platform, RAP etc**
 
 - 👯 I’m looking to collaborate on **DID based Self Sovereign Identity products, Enterprise use cases based on Blockchain technology, Other Web3 use cases etc**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles or Posts on [https://www.linkedin.com/in/devrajsinghrawat/](https://www.linkedin.com/in/devrajsinghrawat/)
 
-- 💬 Ask me about **Blockchain, Web3, Ethereum & SAP**
+- 💬 Ask me about **Blockchain, Web3, Ethereum, Smart Contracts & SAP**
 
 - 📫 How to reach me **devraj.singh.rawat83@gmail.com** Telegram Me **@devrajsinghrawat**
 
