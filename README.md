@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devraj Singh</h1>
-<h3 align="center">A passionate web3 Product Manager, Developer & Consultant from India 🇮🇳, I have more than 16+ years of experience (Enterprise as well Blockchain softwares)</h3>
+<h3 align="center">A passionate web3 Product Manager, Developer & Consultant, I have more than 16+ years of experience (Enterprise as well Blockchain softwares)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrajsinghrawat&label=Profile%20views&color=0e75b6&style=flat" alt="devrajsinghrawat" /> </p>
 
